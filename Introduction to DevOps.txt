@@ -1,0 +1,29 @@
+What is DevOps?
+
+DevOps is a process of improving a continous delivery by ensuring that there is a proper automation and quality in place 
+and ensuring that it have proper continous monitoring and continous testing.
+
+Why DevOps?
+
+To fulfill the need of delivering more and faster and better application to meet more and more demands of users ,we need DevOps.
+DevOps helps deployment to happen really fast compared to any other traditional tools.
+
+The key aspects or principle behind DevOps is:
+• Infrastructure as a Code
+• Continuous Integration
+• Continuous Deployment
+• Automation
+• Continuous Monitoring
+• Security
+
+ List out some of the popular tools for DevOps?
+• Git
+• Jenkins
+• Ansible
+• Puppet
+• Nagios
+• Docker
+• Maven
+• Kubernetes
+• Docker
+
